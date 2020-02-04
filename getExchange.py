@@ -1,7 +1,4 @@
-from math import pi
 from datetime import datetime
-
-import pandas as pd
 import requests, json
 
 class Exchange:
